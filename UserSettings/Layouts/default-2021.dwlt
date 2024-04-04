@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 321}
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
-  controlID: 49
+  controlID: 108
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 321}
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
-  controlID: 39
+  controlID: 98
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 40
+  controlID: 99
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -316,23 +316,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Furniture_FREE/Prefabs
+    - Assets/Interior_1/Scenes
     m_Globs: []
     m_OriginalText: 
     m_FilterByTypeIntersection: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Furniture_FREE/Prefabs
+  - Assets/Interior_1/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Teddies Adventure Environment
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3c5b0000
-    m_LastClickedID: 23356
-    m_ExpandedIDs: 00000000c0580000c8580000325d000000ca9a3b
+    m_SelectedIDs: 7ee70000
+    m_LastClickedID: 59262
+    m_ExpandedIDs: 00000000f858000084e5000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c0580000
+    m_ExpandedIDs: 00000000f8580000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -489,10 +489,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 142.79999}
-      m_SelectedIDs: 
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 54e70000
       m_LastClickedID: 0
-      m_ExpandedIDs: 36fbffff38fbffff
+      m_ExpandedIDs: a8f3feff38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -775,9 +775,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.4380112, y: 6.189068, z: -6.088659}
+    m_Target: {x: -0.5260713, y: 5.051338, z: 11.921464}
     speed: 2
-    m_Value: {x: -3.2490299, y: 5.950551, z: -6.3937645}
+    m_Value: {x: -0.5260713, y: 5.051338, z: 11.921464}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -824,13 +824,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1134691, y: 0.27090573, z: -0.032164607, w: 0.955406}
+    m_Target: {x: 0.002237767, y: 0.9606841, z: -0.277715, w: 0.007784265}
     speed: 2
-    m_Value: {x: 0.11457067, y: 0.27199945, z: -0.032625612, w: 0.9548955}
+    m_Value: {x: 0.001232715, y: 0.960988, z: -0.27655366, w: 0.0043269787}
   m_Size:
-    m_Target: 15.230617
+    m_Target: 25.792515
     speed: 2
-    m_Value: 14.574753
+    m_Value: 25.792515
   m_Ortho:
     m_Target: 0
     speed: 2
