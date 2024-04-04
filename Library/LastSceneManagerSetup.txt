@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Interior_1/Scenes/Overview.unity
+- path: Assets/Scenes/Level 1 (Inside Room).unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
