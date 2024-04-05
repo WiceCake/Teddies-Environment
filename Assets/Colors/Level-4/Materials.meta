@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/Colors/Level-4/Materials.meta
 guid: 6fec6d099c5cc0f4880a900162cb5fa9
+=======
+guid: adbfd5f5436983b438fef1698a65b083
+>>>>>>> Stashed changes:Assets/Scenes/Level 1 (Inside Room)/Materials.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
