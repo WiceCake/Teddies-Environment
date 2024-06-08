@@ -40,6 +40,10 @@ public class ObjectiveManager : MonoBehaviour
             GameObject newItem = Instantiate(itemPrefabs[nextItemIndex], spawnPoints[spawnIndex].position, Quaternion.identity);
             spawnedItems.Add(newItem);
             nextItemIndex++;
+
+            // Update the current objective text
+            string itemName = itemPrefabs[nextItemIndex - 1].name;
+            gameHUD.UpdateCurrentObjectiveText(itemName);
         }
     }
 

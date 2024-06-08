@@ -5,6 +5,7 @@ public class GameHUD : MonoBehaviour
 {
     public Text timerText; // Reference to the UI Text element for the timer
     public Text objectivesText; // Reference to the UI Text element for the objectives
+    public Text currentObjectiveText; // Reference to the UI Text element for the current objective
     public float gameDuration = 300f; // Total game time in seconds
 
     private float remainingTime;
@@ -15,9 +16,14 @@ public class GameHUD : MonoBehaviour
     void Start()
     {
         remainingTime = gameDuration;
-        totalObjectives = FindObjectOfType<ObjectiveManager>().itemPrefabs.Length;
-        collectedObjectives = 0;
+        ObjectiveManager objectiveManager = FindObjectOfType<ObjectiveManager>();
+        if (objectiveManager != null)
+        {
+            totalObjectives = objectiveManager.itemPrefabs.Length;
+        }
+        collectedObjectives = 5;
         UpdateObjectivesText();
+        UpdateCurrentObjectiveText("Find the first item");
     }
 
     void Update()
@@ -50,6 +56,11 @@ public class GameHUD : MonoBehaviour
     void UpdateObjectivesText()
     {
         objectivesText.text = "Objectives: " + collectedObjectives + " / " + totalObjectives;
+    }
+
+    public void UpdateCurrentObjectiveText(string objectiveName)
+    {
+        currentObjectiveText.text = "Find the:  " + objectiveName;
     }
 
     void PauseGame()
