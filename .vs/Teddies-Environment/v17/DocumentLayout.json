@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\assets\\scripts\\gamehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamehud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|c:\\users\\gemuel\\documents\\github\\teddies-environment\\assets\\charactercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|solutionrelative:assets\\charactercollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\assets\\scripts\\charactercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\charactercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\assets\\scripts\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BFED25-13C3-BD18-C09A-147F4F9A6A6C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectibleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameHUD.cs",
+              "DocumentMoniker": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\scripts\\GameHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameHUD.cs",
+              "ToolTip": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\scripts\\GameHUD.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameHUD.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwFgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:40:42.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharacterCollision.cs",
+              "DocumentMoniker": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\CharacterCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\CharacterCollision.cs",
+              "ToolTip": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\CharacterCollision.cs",
+              "RelativeToolTip": "Assets\\CharacterCollision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:13:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharacterCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\scripts\\CharacterCollection.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CharacterCollection.cs",
+              "ToolTip": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\scripts\\CharacterCollection.cs",
+              "RelativeToolTip": "Assets\\scripts\\CharacterCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:05:42.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectibleItem.cs",
+              "DocumentMoniker": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\scripts\\CollectibleItem.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CollectibleItem.cs",
+              "ToolTip": "C:\\Users\\Gemuel\\Documents\\GitHub\\Teddies-Environment\\Assets\\scripts\\CollectibleItem.cs",
+              "RelativeToolTip": "Assets\\scripts\\CollectibleItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T06:05:20.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
